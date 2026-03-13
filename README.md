@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gunel</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTFkM3Q0eG84dmJrNzluY2ttOGZxaDQ1ZWV5NGtiYXFjaWJ1dXR3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S9RnJWRWoiRZlHgaHa/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGR1YnRwc2lmZmcxdnZyd3dxYWUya2VwaHc2dTlwbWJ2bjI1MnU1eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunelhaji&label=Profile%20views&color=0e75b6&style=flat" alt="gunelhaji" /> </p>
 
